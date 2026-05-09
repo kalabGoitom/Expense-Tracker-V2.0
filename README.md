@@ -28,7 +28,7 @@ No build step, no npm install. Just open the file.
 git clone https://github.com/your-username/expense-tracker.git
 
 # Open in your browser
-open index.html
+open Expense-Tracker-V2.0
 ```
 
 Or simply drag `index.html` into any browser window and it works immediately.
@@ -123,18 +123,6 @@ git push -u origin main
 # Then enable GitHub Pages in repository Settings → Pages → Deploy from main
 ```
 
-**Vercel**
-
-```bash
-npx vercel
-# Follow the prompts — select the project folder and deploy
-```
-
-**Netlify**
-
-Drag and drop the project folder onto [netlify.com/drop](https://netlify.com/drop).
-
----
 
 ## 🗺️ Roadmap
 
