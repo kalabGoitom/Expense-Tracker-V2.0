@@ -111,18 +111,12 @@ To back up your data, use the **Export CSV** feature regularly.
 
 ---
 
-## 🌐 Deployment
-
-The app is a single static HTML file and can be deployed anywhere:
-
-**GitHub Pages**
-
 ```bash
 git init
-git add index.html README.md
-git commit -m "Initial commit"
+git add README.md
+git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/your-username/expense-tracker.git
+git remote add origin https://github.com/kalabGoitom/Expense-Tracker-V2.0.git
 git push -u origin main
 # Then enable GitHub Pages in repository Settings → Pages → Deploy from main
 ```
@@ -158,7 +152,7 @@ Planned features for future versions:
 Contributions are welcome. To get started:
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/kalabGoitom/Expense-Tracker-V2.0.git
 cd expense-tracker
 # Make your changes to index.html
 # Open in browser to test
