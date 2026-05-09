@@ -39,7 +39,9 @@ Or simply drag `index.html` into any browser window and it works immediately.
 
 ```
 expense-tracker/
-└── index.html       # Entire app — HTML, CSS, and JS in one self-contained file
+└── index.html       
+└── style.css       
+└── script.js       
 └── README.md
 ```
 
